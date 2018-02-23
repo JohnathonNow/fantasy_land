@@ -1,0 +1,15 @@
+Forest:
+  image: assets/forest.png
+  moods:
+    creepy:
+      music: https://www.youtube.com/watch?v=mlLGwW7eHTI
+      lights: 07004f
+    cheery:
+      music: https://www.youtube.com/watch?v=W2AyNVK5_vE
+      lights: faff00
+Graves:
+  image: assets/graves.png
+  moods:
+    creepy:
+      music: https://www.youtube.com/watch?v=mlLGwW7eHTI
+      lights: 07004f
