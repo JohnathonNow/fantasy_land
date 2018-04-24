@@ -1,15 +1,48 @@
-Forest:
-  image: assets/forest.png
+Catacombs:
+  image: assets/catacombs.jpg
   moods:
-    creepy:
-      music: https://www.youtube.com/watch?v=mlLGwW7eHTI
+    troubling:
+      music: https://youtu.be/WaG9K6Agx-0
       lights: 07004f
     cheery:
-      music: https://www.youtube.com/watch?v=W2AyNVK5_vE
+      music: https://youtu.be/3CS93CdMv_E
       lights: faff00
-Graves:
-  image: assets/graves.png
+    darude:
+      music: https://www.youtube.com/watch?v=c-ydGUHUDj8
+      lights: faff00
+Downtime:
+  image: assets/downtime.jpg
   moods:
-    creepy:
-      music: https://www.youtube.com/watch?v=mlLGwW7eHTI
+    relaxed:
+      music: https://youtu.be/c1lYpEb8gcM
       lights: 07004f
+    cheery:
+      music: https://youtu.be/3CS93CdMv_E
+      lights: faff00
+    darude:
+      music: https://www.youtube.com/watch?v=c-ydGUHUDj8
+      lights: faff00
+Sewers:
+  image: assets/sewers.jpg
+  moods:
+    suspensful:
+      music: https://youtu.be/hD-8wCOkDik
+      lights: 07004f
+    cheery:
+      music: https://youtu.be/3CS93CdMv_E
+      lights: faff00
+    darude:
+      music: https://www.youtube.com/watch?v=c-ydGUHUDj8
+      lights: faff00
+Wharf:
+  image: assets/wharf.jpg
+  moods:
+    eerie:
+      music: https://youtu.be/DWGrFtyAFVc
+      lights: 07004f
+    cheery:
+      music: https://youtu.be/3CS93CdMv_E
+      lights: faff00
+    darude:
+      music: https://www.youtube.com/watch?v=c-ydGUHUDj8
+      lights: faff00

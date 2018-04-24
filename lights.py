@@ -33,3 +33,5 @@ def hurt():
         "color": "red",
     }
     response = requests.post('https://api.lifx.com/v1/lights/all/effects/pulse', data=json.dumps(payload), headers=headers)
+
+hurt()
